@@ -24,3 +24,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemnaik&show_icons=true&locale=en&layout=compact" alt="hemnaik" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemnaik&show_icons=true&locale=en" alt="hemnaik" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemnaik&show_icons=true&locale=en" alt="hemnaik" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemnaik&" alt="hemnaik" /></p>
