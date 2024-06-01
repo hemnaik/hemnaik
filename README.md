@@ -3,7 +3,7 @@
 <h3 align="center">Passionate Web & Desktop Application developer looking for magnificent opportunities to work with and explore more</h3>
 <img align="center" alt="coding" width="200" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif" height="200"></img><br></br>
 
-<br></br></br>- 🌱 I’m currently learning *Flutter, Advance PHP and many more*
+<br></br>- 🌱 I’m currently learning *Flutter, Advance PHP and many more*
 
 - 👨‍💻 All of my projects are available at [GitHub.com/hemnaik](GitHub.com/hemnaik)
 
