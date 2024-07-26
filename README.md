@@ -1,6 +1,6 @@
  
 <h1 align="center">Hi 👋, I'm Hem Viraj Naik</h1>         
-<center><img alt="coding"   width="400"  src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif" height="200"></img></center>
+<center><img alt="coding"   width="400"   src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif" height="200"></img></center>
 
 # GitHub Badge  
 (https://learn.microsoft.com/en-us/training/modules/introduction-to-github/)  
