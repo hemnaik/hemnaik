@@ -9,7 +9,7 @@
 👨‍💻 All of my projects are available at [GitHub.com/hemnaik](GitHub.com/hemnaik)    
   
 📝 I regularly write articles on (https://www.edugtu.in/?m=1) 
-  
+   
  📫 How to reach me hemnaik505@gmail.com
 
 # 🌐 Connect with me:
