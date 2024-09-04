@@ -5,7 +5,7 @@
 # GitHub Badge         
 (https://learn.microsoft.com/en-us/training/modules/introduction-to-github/)             
               
-# 📶 Available On:       
+# 📶 Available On:        
 👨‍💻 All of my projects are available at [GitHub.com/hemnaik](GitHub.com/hemnaik)       
   
 📝 I regularly write articles on (https://www.edugtu.in/?m=1) 
